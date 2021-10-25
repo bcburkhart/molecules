@@ -3,11 +3,11 @@ Demo repository from the GPN Git Carpentry Workshop
 
 Now I can add additional information about the repository
 
-What it does.
+What this code does.
 
 Methods.
 
-Datatypes.
+Data types.
 
 * list 1
 * list 2
